@@ -1,4 +1,4 @@
-# ProjetoAppMataMosquito
+# ProjetoGameMataMosquito
 
 Projeto que utliza conceitos simples de Javascript como estruturas de repetição, funções de callback, eventos, DOM e BOM. Também foram usados conceitos básicos de CSS e Boostrap. O projeto permite que o usuário escolha o nível de dificuldade, sendo assim sendo possível definir a quantidade de tempo que o usuário terá para matar os mosquitos. São 50 segundos para conseguir matar as moscas e não perder as 3 vidas.
 
